@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.mp4
+*.json
+*.pyc
+.env
+venv/
+env/
+.venv/
